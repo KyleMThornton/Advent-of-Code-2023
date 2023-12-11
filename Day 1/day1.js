@@ -13,6 +13,9 @@ const firstAndLastDigit = (string) => {
     return ans
 }
 
+let ans = 0;
 for(let i = 0; i < testArray.length; i++){
-
+    const temp = firstAndLastDigit(testArray[i])
+    ans += temp
 }
+console.log(ans)
