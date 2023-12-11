@@ -1,4 +1,4 @@
-export const input = [
+exports.array = [
 "gtlbhbjgkrb5sixfivefivetwosix",
 "ninesixrgxccvrqscbskgzxh6cpvpxsqnb6",
 "dxxzrlzkksfsffp4",
